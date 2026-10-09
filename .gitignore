@@ -1,0 +1,37 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# C / C++ compiled outputs
+*.exe
+*.out
+*.o
+*.obj
+a.out
+build/
+
+# Java compiled classes
+*.class
+*.jar
+
+# Python bytecode & environments
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Node.js / JavaScript
+node_modules/
+npm-debug.log*
+
+# Rust & Go build artifacts
+target/
+*.bin
